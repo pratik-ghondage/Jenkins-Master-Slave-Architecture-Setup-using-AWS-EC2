@@ -18,7 +18,7 @@ This architecture is commonly used in **large CI/CD environments** to improve sc
 
 #  Architecture
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/Architecture.png)
 
 ### Components Used
 
